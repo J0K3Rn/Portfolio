@@ -1,4 +1,4 @@
 # Portfolio
  Personal portfolio page using Github Pages
 
- Link: https://J0K3Rn.github.io
+ Link: https://j0k3rn.github.io/Portfolio/
