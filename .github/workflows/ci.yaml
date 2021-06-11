@@ -8,7 +8,7 @@ jobs:
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.7
-      - name: build
-        run: script/bootstrap
+      #- name: build
+      #  run: script/bootstrap
       #- name: test
       #  run: script/cibuild
