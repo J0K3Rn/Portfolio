@@ -10,5 +10,5 @@ jobs:
           ruby-version: 2.7
       - name: build
         run: script/bootstrap
-      - name: test
-        run: script/cibuild
+      #- name: test
+      #  run: script/cibuild
