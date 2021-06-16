@@ -31,9 +31,9 @@ Dean's List: Fall 2018, Spring 2019, Fall 2019, Spring 2021
 
 <p>
 <b>Zoo Database</b><br>
-- Created a full-stack website and database as a project. Project contained user accounts, separate web pages for querying and data reports, as wekl as triggers.<br>
+- Created a full-stack website and database as a project. Project contained user accounts, separate web pages for querying and data reports, as well as database triggers.<br>
 <b>Arduino Alarm Clock</b><br>
-- Alarm clock made with Arduino. Utilizes Network Time Protocol, gets current weather using OpenWeatherMap api.<br>
+- Alarm clock made with Arduino. Utilizes Network Time Protocol, gets current weather using OpenWeatherMap API.<br>
 <b>Raspberry Pi Alarm System</b><br>
 - Using the Raspberry Pi, a breadboard, magnets, and a simple script I created a basic alarm system to send an email out every time the door is opened. Looking furthermore into adding facial recognition with a security camera.<br>
 <b>Minesweeper</b><br>
