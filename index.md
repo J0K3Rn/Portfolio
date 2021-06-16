@@ -45,6 +45,6 @@ Dean's List: Fall 2018, Spring 2019, Fall 2019, Spring 2021
 ## Proficient with
 
 | Java         | C#                | C++   | Python		|
-| Bash		   | Linux			   | ARM   | Windows	|
+| Bash		   | Linux			   | ARMv8 | Windows	|
 
 
