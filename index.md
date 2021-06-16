@@ -14,7 +14,7 @@ I am a student at the University Of Houston and also a Automation and Testing So
 <b>Automation and Testing Software Developer Intern (Jan. 2020 - Present)</b><br>
 - Writes unit tests in python and debugs programs. Also have been in the efforts of automating tests from writing scripts to implementing web interface.<br>
 <b>Teacher (May. 2019 - Dec. 2019)</b><br>
-- Held technological classes for the low-income communities of Houston teaching them the fundamentals of technology. Taught both hardware and software.
+- Held technological classes for the low-income communities of Houston teaching them the fundamentals of technology. Taught both hardware and software classes.
 </p>
 
 ## Education
@@ -31,7 +31,9 @@ Dean's List: Fall 2018, Spring 2019, Fall 2019, Spring 2021
 
 <p>
 <b>Zoo Database</b><br>
-<b>Arduino Alarm CLock</b><br>
+- Created a full-stack website and database as a project. Project contained user accounts, separate web pages for querying and data reports, as wekl as triggers.<br>
+<b>Arduino Alarm Clock</b><br>
+- Alarm clock made with Arduino. Utilizes Network Time Protocol, gets current weather using OpenWeatherMap api.<br>
 <b>Raspberry Pi Alarm System</b><br>
 - Using the Raspberry Pi, a breadboard, magnets, and a simple script I created a basic alarm system to send an email out every time the door is opened. Looking furthermore into adding facial recognition with a security camera.<br>
 <b>Minesweeper</b><br>
