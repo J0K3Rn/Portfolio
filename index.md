@@ -6,7 +6,7 @@ layout: default
 
 ## Who am I
 
-I am a student at the University Of Houston and also a Automation and Testing Software Developer Intern. 
+I am a student at the University Of Houston and also an Automation and Testing Software Developer Intern. 
 
 ## Work Experience
 
@@ -20,7 +20,7 @@ I am a student at the University Of Houston and also a Automation and Testing So
 ## Education
 
 <p>
-<b>University Of Houston</b><br>
+<b>University Of Houston (Fall 2018 - Present)</b><br>
 GPA: 3.775<br>
 Computer Science Major<br>
 Double Minor in Computer Engineering Technology and Math<br>

@@ -4,6 +4,17 @@ layout: default
 
 # Background
 
+## Achievements
+
+<p>
+<b>UH Dean's Distinguished Scholars List (Spring 2021)</b><br>
+<b>Experienced teaching skills</b><br>
+<b>Experienced Athlete as well as a Tremendous Scholar</b><br>
+<b>Qualified for Regional's twice in UIL Computer Science</b><br>
+<b>Graduated top 17% of High School class</b><br>
+<b>Took many Advanced and College level classes in High School</b><br>
+</p>
+
 ## High School Activities
 
 <p>
