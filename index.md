@@ -6,12 +6,12 @@ layout: default
 
 ## Who am I
 
-I am a student at the University Of Houston and also an Automation and Testing Software Developer Intern. 
+I am a student at the University Of Houston and also an Automation and Testing Software Developer CO-OP/Intern. 
 
 ## Work Experience
 
 <p>
-<b>Automation and Testing Software Developer Intern (Jan. 2020 - Present)</b><br>
+<b>Automation and Testing Software Developer CO-OP/Intern (Jan. 2020 - Present)</b><br>
 - Writes unit tests in python and debugs programs. Also have been in the efforts of automating tests from writing scripts to implementing web interface.<br>
 <b>Teacher (May. 2019 - Dec. 2019)</b><br>
 - Held technological classes for the low-income communities of Houston teaching them the fundamentals of technology. Taught both hardware and software classes.
