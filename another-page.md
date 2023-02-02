@@ -30,4 +30,4 @@ layout: default
 - Created games in Unity and GameMaker, and apps using Visual Studio. Examined broad subjects such as sockets, and proper game design.<br>
 </p>
 
-[back](./)
+[back](./index.html)
